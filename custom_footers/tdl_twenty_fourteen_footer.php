@@ -17,7 +17,7 @@ $UWEX_Logo = 'uwex-logo.png';
 <div style="float: left; margin-left: auto; margin-right: auto; width: 64%; ">		
 	<a href="http://www.wisc.edu/">UW-Madison</a>  &nbsp; &nbsp; &nbsp;  <a href="http://www.cals.wisc.edu/">College of Agricultural and Life Sciences</a> <br /><a href="http://www.plantpath.wisc.edu/">UW-Madison Department of Plant Pathology</a><br /><br />	
 				
-	<span class="feedback-text">Accessibility questions: Click <a href="mailto:webeditor@russell.wisc.edu">here</a> to send an email</span><br /><br />
+	<span class="feedback-text">Accessibility questions: Click <a href="mailto:hockemeyer@wisc.edu">here</a> to send an email</span><br /><br />
 	<span style="color: black;">Copyright &copy; <?php
 	$now = date('Y');
 	echo $now; ?> The Board of Regents of the University of Wisconsin System </span><br /><br />
